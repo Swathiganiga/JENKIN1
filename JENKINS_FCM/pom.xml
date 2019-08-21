@@ -53,9 +53,9 @@
         <testResources>
             <testResource>
                 <directory>src/test/java</directory>
-                <excludes>
-                    <exclude>**/*.java</exclude>
-                </excludes>
+                <includes>
+                    <include>**/*.java</include>
+                </includes>
             </testResource>
         </testResources>
         <plugins>
