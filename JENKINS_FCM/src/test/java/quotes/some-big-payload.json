@@ -1,1 +1,0 @@
-{"parameters":{"quoteID":"59674","brandCode":"SS","action":"GetQuote","pnr":null},"Header":{"EventMetadata":{"Service":"Quotes","Method":"GetQuoteCRPDetailsByQuoteID","Action":"POST"},"Brand":"USA","AppVersion":"3.5.0.0"}}
